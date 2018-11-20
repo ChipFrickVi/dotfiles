@@ -1,0 +1,6 @@
+2018/11/18-21:51:01.227 867 Reusing MANIFEST /home/chipfrick/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/11/18-21:51:01.227 867 Recovering log #4
+2018/11/18-21:51:01.233 867 Reusing old log /home/chipfrick/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2018/11/18-22:26:25.336 5855 Level-0 table #8: started
+2018/11/18-22:26:25.367 5855 Level-0 table #8: 1896355 bytes OK
+2018/11/18-22:26:25.372 5855 Delete type=0 #4
